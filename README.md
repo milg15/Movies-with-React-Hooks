@@ -1,3 +1,8 @@
+I followed this tutorial https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/ to build this app it was simple and fun.
+
+_________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
